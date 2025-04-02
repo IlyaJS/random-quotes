@@ -4,7 +4,7 @@ const quotes = [
 	'The only way to do great work is to love what you do. - Steve Jobs',
 	'Success is not how high you have climbed, but how you make a . - Roy T. Bennett',
 	'What lies behind us and what lies before us are tiny matters . - Ralph Waldo Emerson',
-	'Another queto mass effect is real good game',
+	'Another queto mass effect is real good game and cuberpunk 2077 game year',
 ]
 
 const quoteElement = document.getElementById('quote')
